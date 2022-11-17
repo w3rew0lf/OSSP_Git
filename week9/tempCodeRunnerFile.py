@@ -1,0 +1,1 @@
+r2 = r2_score(Y_train, y_train_predict)
